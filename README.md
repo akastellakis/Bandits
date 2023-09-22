@@ -1,4 +1,4 @@
-# Bandit Algorithms Notebook
+# Stochastic Multi-Armed Bandit Algorithms Notebook
 
 This is a self-explanatory Jupyter Notebook that demonstrates the implementation and comparison of three popular bandit algorithms that achieve sublinear regret: Epsilon-Greedy, Upper Confidence Bound (UCB), and the Hedge algorithm. The notebook provides an interactive environment to observe the behavior and performance of each algorithm.
 
